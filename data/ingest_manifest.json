@@ -1,0 +1,37 @@
+{
+  "pdf_count": 9,
+  "pdf_files": [
+    "IBMResearch_STO_2021_Whitepaper.pdf",
+    "lit_auto_researchdevelopmentinnovating.pdf",
+    "data_quality.pdf",
+    "IBMTraining-TheValueofTraining.pdf",
+    "heusler.pdf",
+    "White%20Paper%20-%20TS7700_R6.0%20Performance_v_1.0.pdf",
+    "platform_architecture_whitepaper_external_pdf.pdf",
+    "Research.pdf",
+    "Flash__Oracle_DB_19c_SLES_15_2021.pdf"
+  ],
+  "pdf_source_urls": [
+    "https://research.ibm.com/downloads/ces_2021/IBMResearch_STO_2021_Whitepaper.pdf",
+    "https://public.dhe.ibm.com/software/applications/plm/landingdtw/lit_auto_researchdevelopmentinnovating.pdf",
+    "https://public.dhe.ibm.com/software/data/integration/whitepapers/data_quality.pdf",
+    "https://public.dhe.ibm.com/linux/service_agent_code/LINUX/HMC_SECURITY_WHITEPAPER.PDF",
+    "https://www.ibm.com/training/pdfs/IBMTraining-TheValueofTraining.pdf",
+    "https://public.dhe.ibm.com/software/data/persontopersonprogram/cologne/heusler.pdf",
+    "https://www.ibm.com/support/pages/system/files/inline-files/White%20Paper%20-%20TS7700_R6.0%20Performance_v_1.0.pdf",
+    "https://www.ibm.com/support/pages/system/files/inline-files/platform_architecture_whitepaper_external_pdf.pdf",
+    "https://www.ibm.com/investor/att/pdf/Research.pdf",
+    "https://www.ibm.com/support/pages/system/files/inline-files/Flash__Oracle_DB_19c_SLES_15_2021.pdf"
+  ],
+  "pdf_limit": "all",
+  "paragraph_count": 108,
+  "csv_rows": 80,
+  "csv_path": "D:\\IBM_RAG\\ibm_rag_project\\data\\ibm_hr.csv",
+  "csv_mode": "generated",
+  "config": {
+    "max_pdfs": "all",
+    "max_pages": 5,
+    "min_paragraphs": 15
+  },
+  "timestamp": "2025-11-10T03:56:36Z"
+}

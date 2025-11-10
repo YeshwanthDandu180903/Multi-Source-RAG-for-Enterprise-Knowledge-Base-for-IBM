@@ -1,0 +1,81 @@
+EmployeeNumber,Age,Department,JobRole,MonthlyIncome,YearsAtCompany,Attrition,JobSatisfaction,PerformanceRating
+1,28,Research & Development,Sales Executive,11024,7,Yes,1,1
+2,58,Sales,Data Scientist,3976,2,Yes,2,1
+3,56,Research & Development,HR Analyst,10223,14,No,1,2
+4,48,Sales,Sales Executive,8094,6,No,1,1
+5,45,Research & Development,Sales Executive,14270,19,No,1,4
+6,55,Research & Development,HR Analyst,5582,17,No,3,2
+7,25,Research & Development,Research Scientist,12482,2,Yes,1,4
+8,38,Sales,Sales Executive,8329,11,No,2,3
+9,25,Human Resources,Research Scientist,11021,5,No,4,3
+10,56,Research & Development,Sales Executive,4832,7,Yes,3,4
+11,38,Research & Development,Research Scientist,13311,6,No,4,4
+12,30,Sales,Research Scientist,11081,17,No,4,4
+13,44,Research & Development,Research Scientist,19696,15,Yes,1,1
+14,30,Human Resources,Research Scientist,16833,19,Yes,4,4
+15,59,Sales,Sales Executive,3376,3,No,3,1
+16,39,Sales,Research Scientist,17867,0,No,2,1
+17,40,Human Resources,Research Scientist,8008,11,Yes,1,3
+18,52,Research & Development,Data Scientist,14894,9,Yes,1,2
+19,57,Research & Development,Data Scientist,18924,2,Yes,2,4
+20,56,Research & Development,Sales Executive,16865,6,Yes,3,4
+21,44,Sales,HR Analyst,6965,7,Yes,1,3
+22,22,Human Resources,Research Scientist,10216,0,Yes,1,2
+23,25,Research & Development,Sales Executive,5321,16,Yes,3,4
+24,34,Human Resources,Research Scientist,18488,7,No,4,2
+25,27,Research & Development,HR Analyst,14609,13,No,4,1
+26,27,Research & Development,HR Analyst,14118,3,Yes,2,2
+27,55,Sales,Research Scientist,16824,5,No,4,2
+28,25,Sales,Data Scientist,4657,20,Yes,1,2
+29,31,Sales,HR Analyst,18773,6,No,1,2
+30,45,Research & Development,HR Analyst,11690,14,No,4,4
+31,30,Research & Development,Sales Executive,10133,1,Yes,3,1
+32,24,Human Resources,HR Analyst,19477,16,Yes,1,1
+33,32,Research & Development,Data Scientist,10707,12,Yes,2,1
+34,60,Research & Development,HR Analyst,13366,8,Yes,3,2
+35,37,Sales,Research Scientist,12830,14,No,1,1
+36,50,Human Resources,Data Scientist,5400,17,Yes,3,2
+37,43,Research & Development,Research Scientist,15108,9,Yes,4,3
+38,60,Human Resources,Data Scientist,12810,3,Yes,3,1
+39,27,Human Resources,Research Scientist,11924,9,Yes,3,2
+40,37,Human Resources,HR Analyst,11228,1,Yes,4,3
+41,23,Research & Development,Sales Executive,7286,20,No,2,4
+42,56,Human Resources,HR Analyst,3316,3,Yes,2,1
+43,44,Human Resources,Research Scientist,17083,4,Yes,3,3
+44,23,Sales,Research Scientist,11176,3,No,4,2
+45,36,Research & Development,Research Scientist,16510,0,Yes,3,4
+46,36,Sales,Research Scientist,6542,12,Yes,4,2
+47,33,Sales,Sales Executive,13000,7,Yes,1,2
+48,46,Sales,Sales Executive,5274,8,No,4,3
+49,22,Research & Development,Sales Executive,8851,18,No,1,1
+50,59,Sales,Sales Executive,13278,13,Yes,4,2
+51,37,Research & Development,HR Analyst,3055,16,Yes,3,4
+52,25,Human Resources,Sales Executive,13286,3,No,3,4
+53,41,Sales,Sales Executive,7170,6,No,4,2
+54,60,Human Resources,Sales Executive,16306,17,Yes,3,3
+55,34,Sales,Sales Executive,18236,14,No,2,4
+56,31,Human Resources,Data Scientist,12299,16,No,1,2
+57,40,Research & Development,Research Scientist,7828,0,Yes,2,4
+58,60,Research & Development,HR Analyst,16580,20,Yes,4,4
+59,46,Research & Development,Research Scientist,3181,3,No,2,2
+60,54,Sales,Data Scientist,11165,3,No,2,4
+61,54,Human Resources,Sales Executive,17502,19,No,4,2
+62,51,Sales,Sales Executive,11101,20,No,4,2
+63,38,Sales,Data Scientist,12362,7,No,3,3
+64,55,Research & Development,Research Scientist,7942,7,No,2,2
+65,25,Sales,HR Analyst,13842,17,No,4,1
+66,34,Sales,HR Analyst,3640,18,No,4,1
+67,43,Sales,HR Analyst,16730,17,Yes,4,2
+68,38,Sales,HR Analyst,3951,12,No,4,2
+69,50,Research & Development,Data Scientist,15911,18,Yes,1,4
+70,29,Sales,Research Scientist,4647,8,No,3,2
+71,50,Sales,Sales Executive,15423,8,No,3,1
+72,51,Research & Development,Data Scientist,14467,7,Yes,1,1
+73,36,Research & Development,Data Scientist,7993,7,Yes,4,1
+74,57,Research & Development,HR Analyst,11396,11,Yes,1,2
+75,40,Research & Development,Data Scientist,13222,18,No,4,2
+76,25,Human Resources,Research Scientist,6339,9,Yes,1,3
+77,55,Sales,Sales Executive,5259,16,No,1,4
+78,52,Research & Development,HR Analyst,14868,20,No,2,4
+79,32,Human Resources,Sales Executive,18843,14,No,3,3
+80,36,Research & Development,Sales Executive,17771,7,No,4,3

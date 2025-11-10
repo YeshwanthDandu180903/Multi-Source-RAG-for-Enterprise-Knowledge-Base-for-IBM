@@ -1,0 +1,215 @@
+Power strategic governance and scalable innovation with hybrid cloud. Let’s create smarter business.
+
+Scuderia Ferrari HP and IBM built a new digital destination for F1’s expanding fan base and gained a 2x increase in daily active users and a 35% increase in average time spent in-app.
+
+The USTA and IBM harness technology to drive fan engagement with efficiency, flexibility and innovation, creating world-class digital experiences for more than 14 million fans around the globe.
+
+Avid Solutions uses IBM watsonx Orchestrate® to improve employee and customer happiness—with a 25% reduction in the time it takes to onboard new customers and a 10% reduction in errors caused by manual project management processes.
+
+IBM and UFC delivers faster, smarter and more engaging content with AI-powered insights—achieving a 3x estimated increase in insight volume and a 40% estimated reduction in query generation time.
+
+IBM Z Day, 12 November 2025–Largest tech event of the year!
+
+Unlock the full potential of enterprise computing with 6 dynamic tracks tailored to your goals.
+
+From next-generation AI to cutting-edgesoftware, our deep expertise across industries can help you reinvent how your business works in the age of AI.
+
+Automate your complex workflows with AI agents and assistants
+
+Access, integrate, govern and secure all your enterprise data from one place—wherever it resides
+
+Discover how automation solutions increase productivity while managing costs
+
+Manage your hybrid cloud environment to run workloads where and when you need them
+
+Get started with cost-efficient AI models, tailored for business and optimized for scale
+
+Support data-driven decisions for your business
+
+Secure hybrid cloud and AI with data and identity-centric cybersecurity solutions
+
+Engage with IBM Consulting® to design, build and operate high-performing businesses
+
+Explore IBM history and culture of putting technology to work in the real world.
+
+Visit the IBM lab and see what’s in store for the future of computing.
+
+See what it takes to become an IBMer or build your skills with our educational courses.
+
+IBM Advances to Next Phase of DARPA Quantum Benchmarking Initiative
+
+IBM and Agassi Sports Entertainment Announce AI-Powered Platform to Advance Global Racquet Sports
+
+IBM Fusion Delivers Pioneering Implementation of NVIDIA AI Data Platform for Agentic AI
+
+IBM Announces Defense-Focused AI Model to Accelerate Mission Planning and Decision Support
+
+Two-thirds of surveyed enterprises in EMEA report significant productivity gains from AI, finds new IBM study
+
+IBM Report: Two-Thirds of UK Firms Gain from AI--Reskilling Key to Unlocking Greater Productivity
+
+Bridging the data engineering skills gap: Build data pipelines with agents, SDKs and automation
+
+3 ways generative AI is revolutionizing SAP testing to boost quality and efficiency
+
+Will the biggest user of stablecoins be agentic AI?
+
+A critical wake-up call: Overcoming cloning and surveillance risks from eSIM vulnerability
+
+The research of John Martinis connects the everyday world of electricity to the strange mathematics of quantum mechanics.
+
+Stay ahead with the latest tech news
+
+Weekly insights, research and expert views on AI, security, cloud and more in the Think Newsletter
+
+Is your business getting results from agentic AI?
+
+Only 25% of AI initiatives have delivered their expected ROI and only 16% have scaled enterprise-wide, say surveyed organizations. In this playbook, discover ways to get ahead.
+
+As the novelty wears off, business leaders are struggling to gauge AI’s effectiveness based on isolated experiments. It’s at scale, embedded deeply within business processes and across departments, where AI delivers on its promise.
+
+The initial euphoria surrounding generative AI has given way to a more realistic understanding of its potential and challenges.
+
+Learn how your organization can harness the power of AI-driven solutions at scale.
+
+Anupam Singh, VP of Engineering at Roblox and Nick Renotte, Chief AI Engineer at IBM reveal the hidden pitfalls that doom AI implementations, and how you can avoid falling into the same trap.
+
+Investing in AI ethics can create quantifiable value. We developed a holistic framework, validated through conversations with over 30 organizations, to measure the impact.
+
+It’s not only possible, but likely, to achieve measurable ROI gains when organizations let strong data quality and AI strategy take the lead.
+
+Fewer outages, faster restoration times and higher IT customer satisfaction scores, translate to significantly higher returns on generative AI investments.
+
+Learn how the newest member of the C-suite boosts ROI of AI adoption.
+
+Get research-backed insights to benchmark your behavior and performance against peers, from IBV Senior Research Director Anthony Marshall.
+
+What makes AI so expensive? Rebecca Gott, IBM Distinguished Engineer and CTO of Power Platform and Penny Madsen, IDC Senior Research Director of Cloud and Edge Services discuss.
+
+This stage gating model can help you prove value and unlock funding for subsequent tranches of AI work.
+
+Become an expert on fundamental and emerging tech topics with our comprehensive guides
+
+Reader favorites from the year so far
+
+Explore every facet of cybersecurity, from basic principles to cutting-edge tools and developing threats.
+
+New global research from IBM and Ponemon Institute reveals an AI oversight gap.
+
+Explore insights from monitoring over 150 billion security events per day.
+
+How to use the dark web to detect attacks before they do major damage.
+
+Learn how agentic AI is redefining the cybersecurity game for both sides: attackers and defenders.
+
+Social engineering will always be a problem, but we can all do our part to make scammers' jobs harder.
+
+On the Security Intelligence podcast: Vibe hacking, HexStrike AI and the latest scheme from Scattered Lapsus$ Hunters
+
+Malware written by AI will still behave like malware.
+
+Proactive cybersecurity has a frustrating truth: Its greatest successes are invisible.
+
+As cybersecurity teams thwart more direct hacks, attackers are turning to a quainter style of scam.
+
+The proliferation of low-priority alerts can exhaust workers and lead to disaster.
+
+AI systems can automate threat detection, prevention and remediation to combat cyberattacks.
+
+Listen to engaging discussions with tech leaders. Watch the latest episodes.
+
+This AI Academy episode explores the tug-of-war that risk and assurance leaders experience between governance and security.
+
+Uniting security and governance for the future of AI
+
+IBM CEO Arvind Krishna: Creating Smarter Business with AI and Quantum
+
+Building a data strategy for enterprise AI
+
+Achieving AI readiness with hybrid cloud
+
+Put AI to work for observability
+
+Explore expert-led sessions on AI agents, data for AI, AI models, AI automation, and AI governance & security
+
+One of the biggest challenges of realizing ROI from AI is stickiness — making it easy to use, embedded in the natural flow of how people work, and trusted by its users. 64% of CEOs say success...
+
+One of the biggest challenges of realizing ROI from AI is stickiness — making it easy to use, embedded in the natural flow of how people work, and trusted by its users.64% of CEOssay success with generative AI will depend more on people’s adoption than the technology itself, according to the IBM Institute for Business Value.
+
+We met this challenge head on at IBM with our global consulting workforce. One year ago, IBM Consulting rolled out our AI-powered delivery platform IBM Consulting Advantage. It acts as a workbench for our consultants to use AI agents, assistants and applications to augment their daily work supporting clients.
+
+We’ve gone from 0 to over 85,000 users and growing. We have over 2,000 assistants and agents and more than 60 industry and domain specific applications, including solutions that support and integrate technology from strategic partners like Adobe, AWS, Microsoft, Salesforce and SAP. Plus, we’re seeing up to 50% productivity gained across various consulting tasks.[1]
+
+This adoption is a direct result of making the platform “sticky,” which matters because it means we can deliver better and faster client results at a lower cost, and we can help clients achieve stickiness internally too.
+
+Here are four keys to stickiness based on lessons learned from our own transformation plus our experience collaborating with thousands of enterprises, from Riyadh Air to Dun & Bradstreet, to scale AI responsibly and sustainably.
+
+Embed AI into employees’ natural flow of work.
+
+Successful adoption depends on a user experience designed to help employees get work done, within the processes and tools they use every day.
+
+For example, consultants use repeatable methods to execute work consistently, like a cloud migration factory method with specific steps to accelerate how consultants migrate a client’s applications to the cloud. We’ve curated bundles of capabilities in IBM Consulting Advantage and embedded them within the specific steps in the method where they can provide the most added value.
+
+We’ve also developed plug-ins between IBM Consulting Advantage and popular integrated development environments like Microsoft VScode and IntelliJ. This means our consultants who are building and testing code can use the power of AI within the familiar applications they use every day.
+
+Almost every process can be improved with the right ideas, talent and resources. Cultivate a growth mindset within your teams and encourage them to continually innovate and find new applications for AI.
+
+We’re constantly adding new capabilities to IBM Consulting Advantage based on the challenges we see clients facing today and anticipate in the future.
+
+For example, we're seeing increasing need for smaller, curated foundation models that can help with complex industry-specific tasks, such as achieving compliance with industry standards or modernizing code within the constraints of a highly regulated industry. These models need to be customizable with client data, easily orchestrated with agents and small enough to be easily hosted and deployed via on-premise cloud.
+
+We’re building one-of-a-kind industry specialized datasets that can be used in combination with the novelInstructLabapproach to train targeted foundation models for industry tasks. We’re starting with the banking industry, in close collaboration with the Banking Industry Architecture Network (BIAN). We’ve also begun to engage clients on applications of this solution, making them part of the innovation process.
+
+Employees need targeted training to use AI most effectively. They need to be empowered to ask questions about AI’s outputs, source data and more, so they can feel confident in what AI is producing for them. This is especially important as AI agents, which can come up with a plan and execute it autonomously, become more prevalent. And organizations need to establish feedback loops with employees to understand what’s working with these tools, what’s not, or other ways they could be applied.
+
+In IBM Consulting, in addition to providing targeted training on AI for consultants, we solicit feedback via open comment boards, slack channels and regular user interviews and research. That helps inform future platform capabilities.
+
+Right now, many employees still see generative AI as something that’s happeningtothem, not as something that worksforthem. So how do we make people feel like they’re part of the solution?
+
+Part of the key is an employee culture that embraces change. Find the technology pain points that inspire people to push back or find workarounds, and improve that experience. Establish psychological safety nets so people don’t fear automating themselves out of a job but instead see the tools as an opportunity for their career growth. Lastly, focus on making your people creators, because the people closest to the work often have the best ideas about where and how AI can provide value.
+
+With IBM Consulting Advantage, any consultant can create and train an AI assistant to solve a problem, and that assistant can then be shared and up-voted by peers who want to recommend it for others to use.
+
+Looking ahead into 2025, those business leaders who can make AI “sticky” in their organizations and combine the powerful technology with human expertise and behavior change will be the best positioned to see their AI investments bear fruit.
+
+[1]Based on a generative AI pilot conducted with a large healthcare system, demonstrating an overall efficiency gain of 52% across various roles and workstreams.
+
+Inference is the process of running live data through a trained AI model to make a prediction or solve a task.
+
+Inference is an AI model’s moment of truth, a test of how well it can apply information learned during training to make a prediction or solve a task. Can it accurately flag incoming email as spam, transcribe a conversation, or summarize a report?
+
+During inference, an AI model goes to work on real-time data, comparing the user’s query with information processed during training and stored in its weights, or parameters. The response that the model comes back with depends on the task, whether that’s identifying spam, converting speech to text, or distilling a long document into key takeaways. The goal of AI inference is to calculate and output an actionable result.
+
+Training and inference can be thought of as the difference between learning and putting what you learned into practice. During training, a deep learning model computes how the examples in its training set are related, encoding these relationships in the weights that connect its artificial neurons. When prompted, the model generalizes from this stored representation to interpret new, unseen data, in the same way that people draw on prior knowledge to infer the meaning of a new word or make sense of a new situation.
+
+The artificial neurons in a deep learning model are inspired by neurons in the brain, but they’re nowhere near as efficient. Training just one of today’sgenerative modelscan cost millions of dollars in computer processing time. But as expensive as training an AI model can be, it’s dwarfed by the expense of inferencing. Each time someone runs an AI model on their computer, or on a mobile phone at the edge, there’s a cost — in kilowatt hours, dollars, and carbon emissions.
+
+Because up to 90% of an AI-model’s life is spent in inference mode, the bulk of AI’s carbon footprint is also here, in serving AI models to the world. Bysome estimates, running a large AI model puts more carbon into the atmosphere over its lifetime than the average American car.
+
+“Training the model is a one-time investment in compute while inferencing is ongoing,” said Raghu Ganti an expert on foundation models at IBM Research. “An enterprise might have millions of visitors a day using a chatbot powered by Watson Assistant. That’s a tremendous amount of traffic.”
+
+All that traffic and inferencing is not only expensive, but it can lead to frustrating slowdowns for users. IBM and other tech companies, as a result, have been investing in technologies to speed up inferencing to provide a better user experience and to bring down AI’s operational costs.
+
+How fast an AI model runs depends on the stack. Improvements made at each layer — hardware, software, and middleware — can speed up inferencing on their own and together.
+
+Developing more powerful computer chips is an obvious way to boost performance. One area of focus for IBM Research has been to design chips optimized for matrix multiplication, the mathematical operation that dominates deep learning.
+
+Telum, IBM’s first commercial accelerator chip for AI inferencing, is an example of hardware optimized for this type of math. As is IBM's prototypeArtificial Intelligence Unit(AIU) and work onanalog AI chips.
+
+Another way of getting AI models to run faster is to shrink the models themselves. Pruning excess weights and reducing the model’s precision through quantization are two popular methods for designing more efficient models that perform better at inference time.
+
+A third way to accelerate inferencing is to remove bottlenecks in the middleware that translates AI models into operations that various hardware backends can execute to solve an AI task. To achieve this, IBM has collaborated with developers in the open-source PyTorch community.
+
+Part of the Linux Foundation,PyTorchis a machine-learning framework that ties together software and hardware to let users run AI workloads in the hybrid cloud. One of PyTorch’s key advantages is that it can run AI models on any hardware backend: GPUs, TPUs, IBM AIUs, and traditional CPUs. This universal framework, accessed viaRed Hat OpenShift, gives enterprises the option of keeping sensitive AI workloads on-premises while running other workloads on public and private servers in the hybrid cloud.
+
+Middleware may be the least glamorous layer of the stack, but it’s essential for solving AI tasks. At runtime, the compiler in this middle layer transforms the AI model’s high-level code into a computational graph that represents the mathematical operations for making a prediction. The GPUs and CPUs in the backend carry out these operations to output a solution.
+
+Serving large deep learning models involves a ton of matrix multiplication. For this reason, cutting even small amounts of unnecessary computation can lead to big performance gains. In the last year, IBM Research worked with the PyTorch community and adopted two key improvements in PyTorch. PyTorch Compile supports automatic graph fusion to reduce the number of nodes in the communication graph and thus the number of round trips between a CPU and a GPU; PyTorch Accelerated Transformers support kernel optimization that streamlines attention computation by optimizing memory accesses, which remains the primary bottleneck for large generative models.
+
+Recently, IBM Research added a third improvement to the mix: parallel tensors. The biggest bottleneck in AI inferencing is memory. Running a 70-billion parameter model requires at least 150 gigabytes of memory, nearly twice as much as a Nvidia A100 GPU holds. But if the compiler can split the AI model’s computational graph into strategic chunks, those operations can be spread across GPUs and run at the same time.
+
+Inferencing speeds are measured in something called latency, the time it takes for an AI model to generate a token — a word or part of word— when prompted. When IBM Research tested its three-lever solution (graph fusion, kernel optimization, and parallel tensors) on a 70-billion parameter Llama2 model, researchers achieved a 29-millisecond-per-token latency at 16-bit inferencing. The solution will represent a 20% improvement over the current industry standard once it's made operational.
+
+Each of these techniques had been used before to improve inferencing speeds, but this is the first time all three have been combined. IBM researchers had to figure out how to get the techniques to work together without cannibalizing the others’ contributions. “It’s like three people fighting with each other and only two are friends,” said Mudhakar Srivatsa, an expert on inference optimization at IBM Research.
+
+To further boost inferencing speeds, IBM and PyTorch plan to add two more levers to the PyTorch runtime and compiler for increased throughput. The first, dynamic batching, allows the runtime to consolidate multiple user requests into a single batch so each GPU can operate at full capacity. The second, quantization, allows the compiler to run the computational graph at lower precision to reduce its load on memory without losing accuracy. Join IBM researchers for a deep dive on this and more at the2023 PyTorch ConferenceOct. 16-17 in San Francisco.

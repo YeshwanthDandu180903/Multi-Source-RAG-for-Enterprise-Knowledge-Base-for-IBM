@@ -1,0 +1,29 @@
+# Core RAG stack
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.2.4
+llama-index==0.11.14
+llama-index-embeddings-huggingface==0.2.3
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.1.1
+rank-bm25==0.2.2
+
+# LLMs / Providers
+openai==1.53.0
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# App
+streamlit==1.39.0
+
+# Optional: environment
+python-dotenv==1.0.1
+google-generativeai==0.8.3
+
+langchain-google-genai==1.0.9
+langchain-groq==0.2.0
